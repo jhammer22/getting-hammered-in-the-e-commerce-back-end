@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
       }
     });
 
-    if (!tagData[0]) {
+    if (!tagData) {
       res.status(400).json({ message: 'Try again'});
       return;
     }

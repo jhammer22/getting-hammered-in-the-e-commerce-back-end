@@ -28,6 +28,11 @@ This week's challenge was creating a mock back-end e-commerce app modify the giv
 
 **THEN** I am able to successfully create, update, and delete data in my database
 
+## Project Submission Video
+
+## License
+
+This app is covered under the MIT License
 
 
 ## Language  and Tools Used
@@ -43,9 +48,3 @@ This week's challenge was creating a mock back-end e-commerce app modify the giv
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/>
 
 
-## Project Submission Video
-
-
-## License
-
-This app is covered under the MIT License

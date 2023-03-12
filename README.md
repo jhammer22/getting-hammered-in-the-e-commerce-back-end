@@ -30,6 +30,8 @@ This week's challenge was creating a mock back-end e-commerce app modify the giv
 
 ## Project Submission Video
 
+https://www.loom.com/share/caa99ce820714245ac30104ed7df9a98
+
 ## License
 
 This app is covered under the MIT License
